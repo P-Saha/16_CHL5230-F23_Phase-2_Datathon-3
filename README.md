@@ -1,4 +1,5 @@
 # Project Phase # 2 & Datathon 3 – High Fidelity Report
+Hunter Pozzebon, Priyonto Saha, Yacine Marouf
 ## Introduction
 As of 2019, 8.8% of Canadians are living with diabetes and there are approximately 549 new diagnoses daily (LeBlanc et al., 2019). Although there is no conclusive cure for type 2 diabetes (Joslin Education Team, n.d.), insulin resistance can take years to develop, meaning that the prevention and delay of the disease is the best defence against this epidemic (DPPRG, 2002). The predominant methods of preventing diabetes include lifestyle and diet adjustments (ADA, 2021). Multiple studies report significant correlations between metabolic biomarkers, exercise rates, and diabetes incidence (Biavashi, 2023; Ahmed, 2021).
 
