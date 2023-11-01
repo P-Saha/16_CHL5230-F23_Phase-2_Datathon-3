@@ -41,8 +41,11 @@ The next stage of our research is to train a random survival forest. We note tha
 
 ## Contributions
 Hunter Pozzebon: data preprocessing, writing, literature review, editing
+
 Priyonto Saha: exploratory data analysis, model building, writing, literature review, editing
+
 Yacine Marouf: data preprocessing, exploratory data analysis, writing, literature review, editing
+
 All member of the group split work evenly in terms of coding and report writing.
 
 ## References
