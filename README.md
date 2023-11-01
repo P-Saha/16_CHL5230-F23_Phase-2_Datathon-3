@@ -46,7 +46,7 @@ Yacine Marouf: data preprocessing, exploratory data analysis, writing, literatur
 All member of the group split work evenly in terms of coding and report writing.
 
 ## References
-3. Prevention or delay of type 2 Diabetes:Standards of medical care in diabetes—2021. (2020). Diabetes Care, 44(Supplement_1), S34-S39. https://doi.org/10.2337/dc21-s003
+Prevention or delay of type 2 Diabetes:Standards of medical care in diabetes—2021. (2020). Diabetes Care, 44(Supplement_1), S34-S39. https://doi.org/10.2337/dc21-s003
 
 Ahmed, F., AL-Habori, M., Al-Zabedi, E., & Saif-Ali, R. (2021). Impact of triglycerides and waist circumference on insulin resistance and β-cell function in non-diabetic first-degree relatives of type 2 diabetes. BMC Endocrine Disorders, 21(1). https://doi.org/10.1186/s12902-021-00788-5
 
