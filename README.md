@@ -48,7 +48,7 @@ The word cloud predominantly had clinical statistical terms such as individual, 
 
 ## Discussion
 
-### 4.1 Findings
+### Findings
 Using a combination of random forest with a random survival forest to predict diabetes and the time to diabetes onset will allow for a highly accurate and comprehensive diabetes screening and preventative treatment. This will give patients and healthcare workers an estimate of how severe the intervention to delay onset will need to be. Moreover, it can be used to ensure that the intervention is sustainable for the patient based on their goals of delaying diabetes and maintaining a desirable lifestyle.
 
 Based on the NLP analysis, we noticed a serious gap regarding terms related to diversity, equity, and equality in research (figure 3). Based on the word cloud for the discussion text, there was a significant lack of terms representing any target population or demographic. The only words relating to the patients that are significant in the word cloud are “population” and “individuals”. This signifies a low priority in the identification of the target demographics within the healthcare dataset. The k-means analysis supports this evaluation. Out of the 10 clusters, only three had terms that were related to diversity, equity, and equality. One of the clusters was predominantly miscellaneous terms that also had oriental ethnicities. The two main clusters that had terms related to diversity and equity were organized in relation to either nationality or public policy. This implies that diversity terms are only spoken about in relation to either the general location of the dataset or in relation to possible policy and organizational impacts. The terms were not correlated with other research or quantitative analysis terms, which is concerning as it signifies that the datasets and machine learning models do not seem to address or account for possible demographic biases.
@@ -74,7 +74,7 @@ Priyonto Saha: Feature engineering, EDA, RSF, RF
 
 Equal contributions towards initial literature review and manuscript writing.
 
-## 6.0 References
+## References
 Prevention or delay of type 2 Diabetes:Standards of medical care in diabetes—2021. (2020). Diabetes Care, 44(Supplement_1), S34-S39. https://doi.org/10.2337/dc21-s003
 
 Alabdallah, A., Ohlsson, M., Pashami, S., & Rögnvaldsson, T. (2022). The concordance index decomposition - A measure for a deeper understanding of survival prediction models. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.4024162
