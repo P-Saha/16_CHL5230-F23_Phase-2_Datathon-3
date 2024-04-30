@@ -1,4 +1,4 @@
-# Project Phase # 3 & Datathon 6 – High Fidelity Report
+# Predicting Time to Diabetes Diagnosis Using Random Survival Forests
 Team 16: Priyonto Saha, Hunter Pozzebon, Yacine Marouf
 
 ## Introduction
